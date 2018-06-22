@@ -1,0 +1,1 @@
+These files are used to show how if__name__=__main__ works
